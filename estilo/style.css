@@ -17,7 +17,7 @@ body{
 }
 
 #objetivo{
-    background-image: url(../estilo/nobg-transparent.png);
+    background-image: url(nobg-transparent.png);
     width: 100px;
     height: 100px;
     background-size: contain;
