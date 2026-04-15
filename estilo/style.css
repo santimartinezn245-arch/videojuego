@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(227, 111, 111);
+    font-family: 'caladea', Times, serif;
+}
+
+#pantalla{
+    width: 100vw;
+    height: 100vh;
+    cursor: crosshair;
+}
+
+#contador{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+#objetivo{
+    background-image: url(../estilo/nobg-transparent.png);
+    width: 100px;
+    height: 100px;
+    background-size: contain;
+    position: absolute; 
+    transition: 0.1;
+}
